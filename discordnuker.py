@@ -10,7 +10,7 @@ import asyncio
 import time
 import asyncio
 
-token = "OTYyMDM0MjI3NzA3Mjc3MzYy.G0q244.b57JWyDhu0DVu2vtxoFOQ-aiUxwIDfgLbK1pmw"
+token = "bot token here"
 prefix = "."
 channel_names = ("get insided by z7", "fuck skids 🤓")
 role_names = ("nuked by z7", "nuked by z7")
